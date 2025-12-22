@@ -18,7 +18,7 @@ The analysis revealed an average global correlation of **0.47** across all event
 * **The Memory Cluster:** Blindfolded events (3x3, 4x4, 5x5) correlate highly with each other ($r \approx 0.74–0.87$) but show weaker links to speed-based events.
 * **Specialized Events:** 3x3x3 Multi-Blind and Fewest Moves represent the most distinct "specialties," requiring unique cognitive approaches.
 
-![Correlation Heatmap](output/speedcubing_correlation_heatmap.png)
+![Correlation Heatmap](speedcubing_correlation_heatmap.png)
 
 ### 2. Matrix Completion & Predictive Modeling
 Using the `softImpute` package in R, I performed low-rank matrix completion to fill the "sparse" gaps in the competitor-event matrix (as most cubers do not compete in every event). 
