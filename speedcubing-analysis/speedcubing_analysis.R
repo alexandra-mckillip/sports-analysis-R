@@ -1,7 +1,7 @@
 # ============================================================
 # Performance Across Speedcubing Events Analysis
 # Author: Alexandra McKillip
-# Date: 2025-03-18
+# Date: 2025-12-15
 # Description:
 #   Analysis of correlations across World Cube Association
 #   events and predictions for competitor performances
